@@ -6,7 +6,7 @@ const Pokemon = () => {
     <View>
       <Text>details de pokemen</Text>
 
-      <Link href="/">Retour a l'accueil</Link>
+      <Link href="/index">Retour a l'accueil</Link>
       
     </View>
   );
